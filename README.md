@@ -2,6 +2,10 @@
 
 Individual Software Engineering
 
+## Description
+
+In this course students learn to practice a disciplined engineering process for developing software. Individual skills and practices, such as effort estimation and unit testing, are mastered so that students can become successful members of software engineering teams. Best practices in software engineering are followed, including the use of simple design patterns with well-known properties. Students work in small teams to construct a simple web service using the industry standard Ruby programming language, Rails framework and MySQL database technology.
+
 ## Shut-the-Box
 Rules:
 - There are 2 players each with 9 tiles labeled 1 through 9.
