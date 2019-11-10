@@ -1,6 +1,6 @@
 # SSW 215
 
-Individual Software Engineering
+Stevens Institute of Technology Individual Software Engineering
 
 ## Description
 
